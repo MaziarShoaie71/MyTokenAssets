@@ -1,0 +1,2 @@
+# MyTokenAssets
+hexout token
