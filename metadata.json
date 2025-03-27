@@ -1,0 +1,23 @@
+{
+  "name": "Hexout",
+  "symbol": "HEXO",
+  "description": "Hexout is used as payment to watch educational videos.",
+  "image": "https://raw.githubusercontent.com/MaziarShoaie71/MyTokenAssets/main/SaaNalog_PNG_256.png",
+  "decimals": 6,
+  "website": "https://www.hexout.se",
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://www.hexout.se"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MaziarShoaie71/MyTokenAssets/main/SaaNalog_PNG_256.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
